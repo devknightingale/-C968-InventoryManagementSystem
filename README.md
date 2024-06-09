@@ -1,4 +1,5 @@
-Project file for the C968 Performance Assessment. 
+# Project file for the C968 Performance Assessment. 
+(The below commentary is from the original private repository.)
 
 Comments throughout the files are sometimes to be deleted as they are reminders or explanations of what I need to do next. 
 I thought it would be helpful to have a repository that would track it from the beginning including these notes as it would show my thought process while learning how to build the project. 
